@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tactlabs.github.io/tact-shadow-articles/hbr/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/</loc>
     <lastmod>2021-07-13T19:38:26+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/tact-shadow-articles/wired/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/nlp/</loc>
     <lastmod>2021-07-13T19:38:03+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/tact-shadow-articles/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://tactlabs.github.io/tact-shadow-articles/hbr/reinventing/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/ml_basics/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/tact-shadow-articles/wired/networks/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/nlp/networks/</loc>
     <lastmod>2021-07-13T19:40:18+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/tact-shadow-articles/categories/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/categories/</loc>
   </url><url>
-    <loc>https://tactlabs.github.io/tact-shadow-articles/tags/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/tags/</loc>
   </url>
 </urlset>

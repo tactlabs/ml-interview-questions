@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on TACT LABS</title>
-    <link>https://tactlabs.github.io/tact-shadow-articles/tags/</link>
-    <description>Recent content in Tags on TACT LABS</description>
+    <title>Tags on ML</title>
+    <link>https://tactlabs.github.io/ml-interview-questions/tags/</link>
+    <description>Recent content in Tags on ML</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tactlabs.github.io/tact-shadow-articles/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tactlabs.github.io/ml-interview-questions/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

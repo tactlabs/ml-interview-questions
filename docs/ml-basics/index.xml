@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ML</title>
-    <link>https://tactlabs.github.io/ml-interview-questions/</link>
-    <description>Recent content on ML</description>
+    <title>ML Basics on ML</title>
+    <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/</link>
+    <description>Recent content in ML Basics on ML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jul 2021 19:40:39 +0530</lastBuildDate><atom:link href="https://tactlabs.github.io/ml-interview-questions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 19:38:26 +0530</lastBuildDate><atom:link href="https://tactlabs.github.io/ml-interview-questions/ml-basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100 ML Questions</title>
       <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/ml_basics/</link>
@@ -15,15 +15,6 @@
       <guid>https://tactlabs.github.io/ml-interview-questions/ml-basics/ml_basics/</guid>
       <description>Machine Learning Interview Questions: 4 Categories
 We’ve traditionally seen machine learning interview questions pop up in several categories. The first really has to do with the algorithms and theory behind machine learning. You’ll have to show an understanding of how algorithms compare with one another and how to measure their efficacy and accuracy in the right way. The second category has to do with your programming skills and your ability to execute on top of those algorithms and the theory.</description>
-    </item>
-    
-    <item>
-      <title>NLP Basics</title>
-      <link>https://tactlabs.github.io/ml-interview-questions/nlp/networks/</link>
-      <pubDate>Tue, 13 Jul 2021 19:40:18 +0530</pubDate>
-      
-      <guid>https://tactlabs.github.io/ml-interview-questions/nlp/networks/</guid>
-      <description></description>
     </item>
     
   </channel>
