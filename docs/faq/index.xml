@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on TACT LABS</title>
+    <link>https://talha-altair.github.io/test-site/faq/</link>
+    <description>Recent content in FAQ on TACT LABS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jul 2021 19:37:18 +0530</lastBuildDate><atom:link href="https://talha-altair.github.io/test-site/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPR WEBSITE</title>
+      <link>https://talha-altair.github.io/test-site/faq/faq/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>https://talha-altair.github.io/test-site/faq/faq/</guid>
+      <description>FAQ
+  When did you introduce cryptography?
+Ans: 27/06/2021
+  When did you introduce pure microservices? Ans: 22/06/2021
+  Who worked on the microservices? Ans: Ajesh and Prakash
+  Who worked on basic backend? Ans: Gokul and Sameena
+  Who worked on course related features? Ans: Divya, Ajesh, Prakash, Vedha
+  who worked on google login? Ans: Hari
+  Who worked on github login?</description>
+    </item>
+    
+  </channel>
+</rss>
