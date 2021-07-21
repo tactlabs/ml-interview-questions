@@ -12,7 +12,7 @@ Supervised Learning: In this type of the Machine Learning technique, machines le
 Unsupervised Learning: Unlike supervised learning, it has unlabeled data. So, there is no supervision under which it works on the data. Basically, unsupervised learning tries to identify patterns in data and make clusters of similar entities. After that, when a new input data is fed into the model, it does not identify the entity; rather, it puts the entity in a cluster of similar objects.
 Reinforcement Learning: Reinforcement learning includes models that learn and traverse to find the best possible move. The algorithms for reinforcement learning are constructed in a way that they try to find the best possible suite of action on the basis of the reward and punishment theory.
 
-**1. Differentiate between classification and regression in Machine Learning.**
+**2. Differentiate between classification and regression in Machine Learning.**
 
 In Machine Learning, there are various types of prediction problems based on supervised and unsupervised learning. These are classification, regression, clustering, and association. Here, we will discuss about classification and regression.
 Classification: In classification, we try to create a Machine Learning model that assists us in differentiating data into separate categories. The data is labeled and categorized based on the input parameters.
