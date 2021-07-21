@@ -31,7 +31,7 @@ Using reinforcement learning, the model can learn based on the rewards it receiv
 
 Consider an environment where an agent is working. The agent is given a target to achieve. Every time the agent takes some action toward the target, it is given positive feedback. And, if the action taken is going away from the goal, the agent is given negative feedback.
 
-**2. What is Overfitting, and How Can You Avoid It? **
+**2. What is Overfitting, and How Can You Avoid It?**
 
 Overfitting is a situation that occurs when a model learns the training set too well, taking up random fluctuations in the training data as concepts. These impact the model’s ability to generalize and don’t apply to new data. 
 When a model is given the training data, it shows 100 percent accuracy—technically a slight loss. But, when we use the test data, there may be an error and low efficiency. This condition is known as overfitting.
@@ -70,7 +70,7 @@ Now, we pass the test data to check if the model can accurately predict the valu
 
 Regarding the question of how to split the data into a training set and test set, there is no fixed rule, and the ratio can vary based on individual preferences.
 
-**1. How Do You Handle Missing or Corrupted Data in a Dataset?**
+**4. How Do You Handle Missing or Corrupted Data in a Dataset?**
 
 One of the easiest ways to handle missing or corrupted data is to drop those rows or columns or replace them entirely with some other value.
 There are two useful methods in Pandas:
@@ -80,7 +80,7 @@ Fillna() will replace the wrong values with a placeholder value
 ![Alt text](https://www.simplilearn.com/ice9/frs_images/1-panda_method.jpg "Subtitle")
 
 
-**1. How Can You Choose a Classifier Based on a Training Set Data Size?**
+**5. How Can You Choose a Classifier Based on a Training Set Data Size?**
 
 When the training set is small, a model that has a right bias and low variance seems to work better because they are less likely to overfit. 
 For example, Naive Bayes works best when the training set is large. Models with low bias and high variance tend to perform better as they work fine with complex relationships.
@@ -110,7 +110,9 @@ Now, accuracy = sum of the values across the diagonal / total dataset
 = (12+9) / 25
 = 21 / 25
 = 84%
-1. What Is a False Positive and False Negative and How Are They Significant?
+
+**7. What Is a False Positive and False Negative and How Are They Significant?**
+
 False positives are those cases which wrongly get classified as True but are False. 
 False negatives are those cases which wrongly get classified as False but are True.
 In the term ‘False Positive,’ the word ‘Positive’ refers to the ‘Yes’ row of the predicted value in the confusion matrix. The complete term indicates that the system has predicted it as a positive, but the actual value is negative. 
@@ -126,7 +128,7 @@ So, looking at the confusion matrix, we get:
 False Negative = 1
 True Negative = 9
 
-**1. What Are the Three Stages of Building a Model in Machine Learning?**
+**8. What Are the Three Stages of Building a Model in Machine Learning?**
 
 The three stages of building a machine learning model are:
 Model Building
@@ -138,9 +140,12 @@ Make the required changes after testing and use the final model for real-time pr
 Here, it’s important to remember that once in a while, the model needs to be checked to make sure it’s working correctly. It should be modified to make sure that it is up-to-date.
 
 **9. What is Deep Learning?**
+
 Deep learning is a subset of machine learning that involves systems that think and learn like humans using artificial neural networks. The term ‘deep’ comes from the fact that you can have several layers of neural networks. 
 One of the primary differences between machine learning and deep learning is that feature engineering is done manually in machine learning. In the case of deep learning, the model consisting of neural networks will automatically determine which features to use (and which not to use). 
+
 **10. What Are the Differences Between Machine Learning and Deep Learning?**
+
 Machine Learning 
 Deep Learning
 Enables machines to take decisions on their own, based on past data
@@ -155,6 +160,7 @@ The machine learns the features from the data it is provided
 The problem is solved in an end-to-end manner
 
 **11. What Are the Applications of Supervised Machine Learning in Modern Businesses?**
+
 Applications of supervised machine learning include:
 Email Spam Detection
 Here we train the model using historical data that consists of emails categorized as spam or not spam. This labeled information is fed as input to the model.
@@ -164,7 +170,9 @@ Sentiment Analysis
 This refers to the process of using algorithms to mine documents and determine whether they’re positive, neutral, or negative in sentiment. 
 Fraud Detection
 Training the model to identify suspicious patterns, we can detect instances of possible fraud.
+
 **12. What is Semi-supervised Machine Learning?**
+
 Supervised learning uses data that is completely labeled, whereas unsupervised learning uses no training data.
 In the case of semi-supervised learning, the training data contains a small amount of labeled data and a large amount of unlabeled data.
 
@@ -186,7 +194,8 @@ For example, an e-commerce website can suggest other items for you to buy, based
 ![Alt text](https://www.simplilearn.com/ice9/frs_images/1-association_subset.jpg "Subtitle")
 
 
-**1.  What is the Difference Between Supervised and Unsupervised Machine Learning?**
+**13.  What is the Difference Between Supervised and Unsupervised Machine Learning?**
+
 Supervised learning - This model learns from the labeled data and makes a future prediction as output 
 Unsupervised learning - This model uses unlabeled input data and allows the algorithm to act on that information without guidance.
 **15. What is the Difference Between Inductive Machine Learning and Deductive Machine Learning? **
@@ -196,7 +205,9 @@ It observes instances based on defined principles to draw a conclusion
 Example: Explaining to a child to keep away from the fire by showing a video where fire causes damage
 It concludes experiences
 Example: Allow the child to play with fire. If he or she gets burned, they will learn that it is dangerous and will refrain from making the same mistake again
+
 **16. Compare K-means and KNN Algorithms.**
+
 K-means
 KNN
 K-Means is unsupervised
@@ -205,26 +216,35 @@ The points in each cluster are similar to each other, and each cluster is differ
 KNN is supervised in nature
 KNN is a classification algorithm
 It classifies an unlabeled observation based on its K (can be any number) surrounding neighbors
+
 **17. What Is ‘naive’ in the Naive Bayes Classifier?**
+
 The classifier is called ‘naive’ because it makes assumptions that may or may not turn out to be correct. 
 The algorithm assumes that the presence of one feature of a class is not related to the presence of any other feature (absolute independence of features), given the class variable.
 For instance, a fruit may be considered to be a cherry if it is red in color and round in shape, regardless of other features. This assumption may or may not be right (as an apple also matches the description).
+
 **18. Explain How a System Can Play a Game of Chess Using Reinforcement Learning.**
+
 Reinforcement learning has an environment and an agent. The agent performs some actions to achieve a specific goal. Every time the agent performs a task that is taking it towards the goal, it is rewarded. And, every time it takes a step which goes against that goal or in reverse direction, it is penalized. 
 Earlier, chess programs had to determine the best moves after much research on numerous factors. Building a machine designed to play such games would require many rules to be specified. 
 With reinforced learning, we don’t have to deal with this problem as the learning agent learns by playing the game. It will make a move (decision), check if it’s the right move (feedback), and keep the outcomes in memory for the next step it takes (learning). There is a reward for every correct decision the system takes and punishment for the wrong one. 
+
 **19. How Will You Know Which Machine Learning Algorithm to Choose for Your Classification Problem?**
+
 While there is no fixed rule to choose an algorithm for a classification problem, you can follow these guidelines:
 If accuracy is a concern, test different algorithms and cross-validate them
 If the training dataset is small, use models that have low variance and high bias
 If the training dataset is large, use models that have high variance and little bias
+
 **20. How is Amazon Able to Recommend Other Things to Buy? How Does the Recommendation Engine Work?**
+
 Once a user buys something from Amazon, Amazon stores that purchase data for future reference and finds products that are most likely also to be bought, it is possible because of the Association algorithm, which can identify patterns in a given dataset. 
 
 ![Alt text](https://www.simplilearn.com/ice9/frs_images/1-association_algorithm.jpg "Subtitle")
 
 
-**1.  When Will You Use Classification over Regression?**
+**21.  When Will You Use Classification over Regression?**
+
 Classification is used when your target is categorical, while regression is used when your target variable is continuous. Both classification and regression belong to the category of supervised machine learning algorithms. 
 Examples of classification problems include:
 Predicting yes or no
@@ -237,6 +257,7 @@ Predicting the score of a team
 Predicting the amount of rainfall
 
 **22. How Do You Design an Email Spam Filter?**
+
 Building a spam filter involves the following process:
 The email spam filter will be fed with thousands of emails 
 Each of these emails already has a label: ‘spam’ or ‘not spam.’
@@ -248,13 +269,15 @@ Based on the accuracy of each model, we will use the algorithm with the highest 
 ![Alt text](https://www.simplilearn.com/ice9/frs_images/1-email_filter.jpg "Subtitle")
 
 
-**1.  What is a Random Forest?**
+**23.  What is a Random Forest?**
+
 A ‘random forest’ is a supervised machine learning algorithm that is generally used for classification problems. It operates by constructing multiple decision trees during the training phase. The random forest chooses the decision of the majority of the trees as the final decision. 
 
 ![Alt text](https://www.simplilearn.com/ice9/frs_images/1-random_forest.jpg "Subtitle")
 
 
-**1.  Considering a Long List of Machine Learning Algorithms, given a Data Set, How Do You Decide Which One to Use?**
+**24.  Considering a Long List of Machine Learning Algorithms, given a Data Set, How Do You Decide Which One to Use?**
+
 There is no master algorithm for all situations. Choosing an algorithm depends on the following questions:
 How much data do you have, and is it continuous or categorical?
 Is the problem related to classification, association, clustering, or regression?
@@ -268,29 +291,44 @@ Based on the above questions, the following algorithms can be used:
 ![Alt text](https://www.simplilearn.com/ice9/frs_images/1-algorithm_2.jpg "Subtitle")
 
 
-**1.  What is Bias and Variance in a Machine Learning Model?**
-Bias
+**25.  What is Bias and Variance in a Machine Learning Model?**
+
+**Bias**
+
 Bias in a machine learning model occurs when the predicted values are further from the actual values. Low bias indicates a model where the prediction values are very close to the actual ones.
 Underfitting: High bias can cause an algorithm to miss the relevant relations between features and target outputs. 
-Variance
+
+**Variance**
+
 Variance refers to the amount the target model will change when trained with different training data. For a good model, the variance should be minimized. 
 Overfitting: High variance can cause an algorithm to model the random noise in the training data rather than the intended outputs.
+
 **26. What is the Trade-off Between Bias and Variance?**
+
 The bias-variance decomposition essentially decomposes the learning error from any algorithm by adding the bias, variance, and a bit of irreducible error due to noise in the underlying dataset. 
 Necessarily, if you make the model more complex and add more variables, you’ll lose bias but gain variance. To get the optimally-reduced amount of error, you’ll have to trade off bias and variance. Neither high bias nor high variance is desired.
 High bias and low variance algorithms train models that are consistent, but inaccurate on average.
 High variance and low bias algorithms train models that are accurate but inconsistent.
+
 **27. Define Precision and Recall.**
-Precision
+
+**Precision**
+
 Precision is the ratio of several events you can correctly recall to the total number of events you recall (mix of correct and wrong recalls).
+
 Precision = (True Positive) / (True Positive + False Positive)
-Recall
+
+**Recall**
+
 A recall is the ratio of a number of events you can recall the number of total events.
 Recall = (True Positive) / (True Positive + False Negative)
 
 **28. What is Decision Tree Classification?**
+
 A decision tree builds classification (or regression) models as a tree structure, with datasets broken up into ever-smaller subsets while developing the decision tree, literally in a tree-like way with branches and nodes. Decision trees can handle both categorical and numerical data. 
+
 **29. What is Pruning in Decision Trees, and How Is It Done?**
+
 Pruning is a technique in machine learning that reduces the size of decision trees. It reduces the complexity of the final classifier, and hence improves predictive accuracy by the reduction of overfitting. 
 Pruning can occur in:
 Top-down fashion. It will traverse nodes and trim subtrees starting at the root
@@ -299,14 +337,17 @@ There is a popular pruning algorithm called reduced error pruning, in which:
 Starting at the leaves, each node is replaced with its most popular class
 If the prediction accuracy is not affected, the change is kept
 There is an advantage of simplicity and speed
+
 **30. Briefly Explain Logistic Regression.**
+
 Logistic regression is a classification algorithm used to predict a binary outcome for a given set of independent variables. 
 The output of logistic regression is either a 0 or 1 with a threshold value of generally 0.5. Any value above 0.5 is considered as 1, and any point below 0.5 is considered as 0.
 
 ![Alt text](https://www.simplilearn.com/ice9/frs_images/1-logistic_regression.jpg "Subtitle")
 
 
-**1.  Explain the K Nearest Neighbor Algorithm. **
+**31.  Explain the K Nearest Neighbor Algorithm.**
+
 K nearest neighbor algorithm is a classification algorithm that works in a way that a new data point is assigned to a neighboring group to which it is most similar. 
 In K nearest neighbors, K can be an integer greater than 1. So, for every new data point, we want to classify, we compute to which neighboring group it is closest. 
 Let us classify an object using the following example. Consider there are three clusters:
@@ -325,11 +366,17 @@ Next, we find the K (five) nearest data points, as shown.
 
 Observe that all five selected points do not belong to the same cluster. There are three tennis balls and one each of basketball and football. 
 When multiple classes are involved, we prefer the majority. Here the majority is with the tennis ball, so the new data point is assigned to this cluster.
-**1.  What is a Recommendation System?**
+
+**32.  What is a Recommendation System?**
+
 Anyone who has used Spotify or shopped at Amazon will recognize a recommendation system: It’s an information filtering system that predicts what a user might want to hear or see based on choice patterns provided by the user.
+
 **33. What is Kernel SVM?**
+
 Kernel SVM is the abbreviated version of the kernel support vector machine. Kernel methods are a class of algorithms for pattern analysis, and the most common one is the kernel SVM.
+
 **34. What Are Some Methods of Reducing Dimensionality?**
+
 You can reduce dimensionality by combining features with feature engineering, removing collinear features, or using algorithmic dimensionality reduction.
 Now that you have gone through these machine learning interview questions, you must have got an idea of your strengths and weaknesses in this domain.
 
