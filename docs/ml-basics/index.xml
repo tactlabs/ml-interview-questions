@@ -42,5 +42,16 @@ In unsupervised learning, we don&amp;rsquo;t have labeled data. A model can iden
 In all the ML Interview Questions that we would be going to discuss, this is one of the most basic question. So, basically, there are three types of Machine Learning techniques: Supervised Learning: In this type of the Machine Learning technique, machines learn under the supervision of labeled data. There is a training dataset on which the machine is trained, and it gives the output according to its training.</description>
     </item>
     
+    <item>
+      <title>Question Set 4</title>
+      <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_4/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_4/</guid>
+      <description>Question Set 4
+1. Explain the terms Artificial Intelligence (AI), Machine Learning (ML and Deep Learning?
+Artificial Intelligence (AI) is the domain of producing intelligent machines. ML refers to systems that can assimilate from experience (training data) and Deep Learning (DL) states to systems that learn from experience on large data sets. ML can be considered as a subset of AI. Deep Learning (DL) is ML but useful to large data sets.</description>
+    </item>
+    
   </channel>
 </rss>
