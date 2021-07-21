@@ -8,13 +8,28 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jul 2021 19:38:26 +0530</lastBuildDate><atom:link href="https://tactlabs.github.io/ml-interview-questions/ml-basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>100 ML Questions</title>
-      <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/ml_basics/</link>
+      <title>Question Set 1</title>
+      <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_1/</link>
       <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
       
-      <guid>https://tactlabs.github.io/ml-interview-questions/ml-basics/ml_basics/</guid>
+      <guid>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_1/</guid>
       <description>Machine Learning Interview Questions: 4 Categories
 We’ve traditionally seen machine learning interview questions pop up in several categories. The first really has to do with the algorithms and theory behind machine learning. You’ll have to show an understanding of how algorithms compare with one another and how to measure their efficacy and accuracy in the right way. The second category has to do with your programming skills and your ability to execute on top of those algorithms and the theory.</description>
+    </item>
+    
+    <item>
+      <title>Question Set 1</title>
+      <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_2/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_2/</guid>
+      <description>Question Set 2
+1. What Are the Different Types of Machine Learning?
+There are three types of machine learning:
+Supervised Learning
+In supervised machine learning, a model makes predictions or decisions based on past or labeled data. Labeled data refers to sets of data that are given tags or labels, and thus made more meaningful.
+Unsupervised Learning
+In unsupervised learning, we don&amp;rsquo;t have labeled data. A model can identify patterns, anomalies, and relationships in the input data.</description>
     </item>
     
   </channel>

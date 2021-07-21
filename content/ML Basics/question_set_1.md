@@ -1,5 +1,5 @@
 ---
-title: "100 ML Questions"
+title: "Question Set 1"
 date: 2021-07-13T19:40:39+05:30
 draft: false
 ---
@@ -248,13 +248,5 @@ Answer: If you’ve worked with external data sources, it’s likely you’ll ha
 Answer: With the recent announcement of more breakthroughs in quantum computing, the question of how this new format and way of thinking through hardware serves as a useful proxy to explain classical computing and machine learning, and some of the hardware nuances that might make some algorithms much easier to do on a quantum machine. Demonstrating some knowledge in this area helps show that you’re interested in machine learning at a much higher level than just implementation details. 
 
 
-**Question Set 2**
 
-**1. What Are the Different Types of Machine Learning?**
-   
-**There are three types of machine learning:**
-**Supervised Learning**
 
-In supervised machine learning, a model makes predictions or decisions based on past or labeled data. Labeled data refers to sets of data that are given tags or labels, and thus made more meaningful.
-
-![Alt text](https://www.simplilearn.com/ice9/free_resources_article_thumb/supervised_learning.jpg "Supervised Learning")
