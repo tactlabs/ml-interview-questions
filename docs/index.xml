@@ -33,6 +33,16 @@ In unsupervised learning, we don&amp;rsquo;t have labeled data. A model can iden
     </item>
     
     <item>
+      <title>Question Set 3</title>
+      <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_3/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_3/</guid>
+      <description>1. What are the types of Machine Learning?
+In all the ML Interview Questions that we would be going to discuss, this is one of the most basic question. So, basically, there are three types of Machine Learning techniques: Supervised Learning: In this type of the Machine Learning technique, machines learn under the supervision of labeled data. There is a training dataset on which the machine is trained, and it gives the output according to its training.</description>
+    </item>
+    
+    <item>
       <title>NLP Basics</title>
       <link>https://tactlabs.github.io/ml-interview-questions/nlp/networks/</link>
       <pubDate>Tue, 13 Jul 2021 19:40:18 +0530</pubDate>
