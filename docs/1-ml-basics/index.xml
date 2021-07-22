@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ML</title>
-    <link>https://tactlabs.github.io/ml-interview-questions/</link>
-    <description>Recent content on ML</description>
+    <title>ML Basics on ML</title>
+    <link>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/</link>
+    <description>Recent content in ML Basics on ML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jul 2021 19:40:39 +0530</lastBuildDate><atom:link href="https://tactlabs.github.io/ml-interview-questions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 19:38:26 +0530</lastBuildDate><atom:link href="https://tactlabs.github.io/ml-interview-questions/1-ml-basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>15 things to avoid</title>
       <link>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/15_things_to_avoid/</link>
@@ -20,18 +20,6 @@ Check out these common data fallacies beautifully illustrated and summarized by 
 Select data that supports your claim, and hide that does not. Always ask: Is it full data? What filters have been applied?
 2. Data Dredging
 Hiding that correlation is not statistically significant. Instead of defining a hypothesis up front, it is switched after data dredging.</description>
-    </item>
-    
-    <item>
-      <title>DL Question Set 1</title>
-      <link>https://tactlabs.github.io/ml-interview-questions/3-deeplearning-basics/dl_question_set_1/</link>
-      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
-      
-      <guid>https://tactlabs.github.io/ml-interview-questions/3-deeplearning-basics/dl_question_set_1/</guid>
-      <description>Deep Learning Interview Questions
-Deep Learning is a part of machine learning that works with neural networks. It involves a hierarchical structure of networks that set up a process to help machines learn the human logics behind any action. We have compiled a list of the frequently asked deep leaning interview questions to help you prepare.
-What is overfitting?
-Overfitting is a type of modelling error which results in the failure to predict future observations effectively or fit additional data in the existing model.</description>
     </item>
     
     <item>
@@ -78,15 +66,6 @@ In all the ML Interview Questions that we would be going to discuss, this is one
       <description>Question Set 4
 1. Explain the terms Artificial Intelligence (AI), Machine Learning (ML and Deep Learning?
 Artificial Intelligence (AI) is the domain of producing intelligent machines. ML refers to systems that can assimilate from experience (training data) and Deep Learning (DL) states to systems that learn from experience on large data sets. ML can be considered as a subset of AI. Deep Learning (DL) is ML but useful to large data sets.</description>
-    </item>
-    
-    <item>
-      <title>NLP Basics</title>
-      <link>https://tactlabs.github.io/ml-interview-questions/2-nlp/networks/</link>
-      <pubDate>Tue, 13 Jul 2021 19:40:18 +0530</pubDate>
-      
-      <guid>https://tactlabs.github.io/ml-interview-questions/2-nlp/networks/</guid>
-      <description></description>
     </item>
     
   </channel>

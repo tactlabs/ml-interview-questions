@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/deeplearning-basics/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/3-deeplearning-basics/</loc>
     <lastmod>2021-07-13T19:38:26+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/</loc>
     <lastmod>2021-07-13T19:38:26+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/nlp/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/2-nlp/</loc>
     <lastmod>2021-07-13T19:38:03+05:30</lastmod>
   </url><url>
     <loc>https://tactlabs.github.io/ml-interview-questions/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/15_things_to_avoid/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/15_things_to_avoid/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/deeplearning-basics/dl_question_set_1/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/3-deeplearning-basics/dl_question_set_1/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_1/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/question_set_1/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_2/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/question_set_2/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_3/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/question_set_3/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_4/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/question_set_4/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
   </url><url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/nlp/networks/</loc>
+    <loc>https://tactlabs.github.io/ml-interview-questions/2-nlp/networks/</loc>
     <lastmod>2021-07-13T19:40:18+05:30</lastmod>
   </url><url>
     <loc>https://tactlabs.github.io/ml-interview-questions/categories/</loc>
