@@ -1,6 +1,6 @@
 baseURL = "https://tactlabs.github.io/ml-interview-questions/"
 languageCode = "en-us"
-title = "ML"
+title = "ML Interview Questions"
 PublishDir="./docs"
 theme = "learn"
 
