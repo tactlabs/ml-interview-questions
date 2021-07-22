@@ -23,6 +23,18 @@ Hiding that correlation is not statistically significant. Instead of defining a 
     </item>
     
     <item>
+      <title>DL Question Set 1</title>
+      <link>https://tactlabs.github.io/ml-interview-questions/deeplearning-basics/dl_question_set_1/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>https://tactlabs.github.io/ml-interview-questions/deeplearning-basics/dl_question_set_1/</guid>
+      <description>Deep Learning Interview Questions
+Deep Learning is a part of machine learning that works with neural networks. It involves a hierarchical structure of networks that set up a process to help machines learn the human logics behind any action. We have compiled a list of the frequently asked deep leaning interview questions to help you prepare.
+What is overfitting?
+Overfitting is a type of modelling error which results in the failure to predict future observations effectively or fit additional data in the existing model.</description>
+    </item>
+    
+    <item>
       <title>Question Set 1</title>
       <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_1/</link>
       <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
