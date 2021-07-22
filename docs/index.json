@@ -1,12 +1,5 @@
 [
 {
-	"uri": "https://tactlabs.github.io/ml-interview-questions/1-ml-basics/",
-	"title": "1 - ML Basics",
-	"tags": [],
-	"description": "",
-	"content": "ML Basics Machine Learning Basics All ML Basic Questions will be here\n"
-},
-{
 	"uri": "https://tactlabs.github.io/ml-interview-questions/3-deeplearning-basics/",
 	"title": "3 - DL Basics",
 	"tags": [],
@@ -19,6 +12,13 @@
 	"tags": [],
 	"description": "",
 	"content": "nlp NLP All NLP topics come here\n"
+},
+{
+	"uri": "https://tactlabs.github.io/ml-interview-questions/1-ml-basics/",
+	"title": "1 - ML Basics",
+	"tags": [],
+	"description": "",
+	"content": "ML Basics Machine Learning Basics All ML Basic Questions will be here\n"
 },
 {
 	"uri": "https://tactlabs.github.io/ml-interview-questions/",

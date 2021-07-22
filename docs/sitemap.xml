@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/</loc>
-    <lastmod>2021-07-13T19:38:26+05:30</lastmod>
-  </url><url>
     <loc>https://tactlabs.github.io/ml-interview-questions/3-deeplearning-basics/</loc>
     <lastmod>2021-07-13T19:38:26+05:30</lastmod>
   </url><url>
     <loc>https://tactlabs.github.io/ml-interview-questions/2-nlp/</loc>
     <lastmod>2021-07-13T19:38:03+05:30</lastmod>
+  </url><url>
+    <loc>https://tactlabs.github.io/ml-interview-questions/1-ml-basics/</loc>
+    <lastmod>2021-07-13T19:38:26+05:30</lastmod>
   </url><url>
     <loc>https://tactlabs.github.io/ml-interview-questions/</loc>
     <lastmod>2021-07-13T19:40:39+05:30</lastmod>
