@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 - NLP on ML</title>
+    <title>NLP on ML</title>
     <link>https://tactlabs.github.io/ml-interview-questions/2-nlp/</link>
-    <description>Recent content in 2 - NLP on ML</description>
+    <description>Recent content in NLP on ML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jul 2021 19:38:03 +0530</lastBuildDate><atom:link href="https://tactlabs.github.io/ml-interview-questions/2-nlp/index.xml" rel="self" type="application/rss+xml" />
