@@ -1,0 +1,15 @@
+
+Sources:
+
+ML Basics
+    question_set_1
+        https://www.springboard.com/blog/ai-machine-learning/machine-learning-interview-questions/
+
+    question_set_2
+        https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
+
+    question_set_3
+        https://intellipaat.com/blog/interview-question/machine-learning-interview-questions/
+
+    question_set_4
+        https://www.mygreatlearning.com/blog/machine-learning-interview-questions/

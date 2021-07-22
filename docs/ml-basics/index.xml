@@ -8,6 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jul 2021 19:38:26 +0530</lastBuildDate><atom:link href="https://tactlabs.github.io/ml-interview-questions/ml-basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>15 things to avoid</title>
+      <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/15_things_to_avoid/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>https://tactlabs.github.io/ml-interview-questions/ml-basics/15_things_to_avoid/</guid>
+      <description>15 Data fallacies to Avoid
+The common refrain is: Lies, damned lies, and statistics.
+Check out these common data fallacies beautifully illustrated and summarized by Geckoboard.
+1. Cherry Picking
+Select data that supports your claim, and hide that does not. Always ask: Is it full data? What filters have been applied?
+2. Data Dredging
+Hiding that correlation is not statistically significant. Instead of defining a hypothesis up front, it is switched after data dredging.</description>
+    </item>
+    
+    <item>
       <title>Question Set 1</title>
       <link>https://tactlabs.github.io/ml-interview-questions/ml-basics/question_set_1/</link>
       <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
